@@ -8,7 +8,7 @@
                 <h2> CRUD </h2>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('projects.create') }}" title="Cadastrar um usuário"> <i class="fas fa-plus-circle"></i>
+                <a class="btn btn-success" href="{{ route('projects.create') }}" title="Cadastrar um novo  usuário"> <i class="fas fa-plus-circle"></i>
                     </a>
             </div>
         </div>
